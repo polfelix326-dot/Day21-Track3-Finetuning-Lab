@@ -4,7 +4,7 @@
 
 **MSSV**: 2A202602488
 
-- **GitHub Repository**: [Day21-Track3-Finetuning-Lab — submission branch](https://github.com/polfelix326-dot/Day21-Track3-Finetuning-Lab/tree/submission/2A202602488-complete)
+- **GitHub Repository**: [Day21-Track3-Finetuning-Lab](https://github.com/polfelix326-dot/Day21-Track3-Finetuning-Lab/tree/main)
 - **Evaluation report**: [submission/REPORT.md](submission/REPORT.md)
 - **Results**: [results/](results/)
 
